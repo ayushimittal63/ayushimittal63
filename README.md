@@ -11,7 +11,8 @@
 ayushimittal63/ayushimittal63 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img width="100%" src = "https://github.com/user-attachments/assets/1db3532f-d2fa-431c-876b-7d59183072f6">
+<img width="100%" src = "https://github.com/user-attachments/assets/63eee2eb-0f1e-494e-8b18-5cb38c5d8bd6">
+
 
 <h1 align="center">Hi 👋, I'm Ayushi Mittal</h1>
 <h3 align="center">A passionate Full Stack JAVA developer from India</h3>
@@ -27,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me **mittalayushi569@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
-<p align="left">
+<p align="center">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
