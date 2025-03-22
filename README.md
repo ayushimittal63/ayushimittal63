@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me **mittalayushi569@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
+<p align="center"> <a href="https://www.instagram.com/ayushimittal83/?__pwa=1#">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
